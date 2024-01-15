@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Museo Sans Cyrl';
+    font-weight: 900;
+    src: url('../assets/fonts/museosans-900.ttf');
+}
+
+@font-face {
+    font-family: 'Museo Sans Cyrl';
+    font-weight: bold;
+    src: url('../assets/fonts/museosans-700.ttf');
+}
+
+@font-face {
+    font-family: 'Museo Sans Cyrl';
+    font-weight: normal;
+    src: url('../assets/fonts/museosans-500.ttf');
+}
+
+@font-face {
+    font-family: 'Museo Sans Cyrl';
+    font-weight: 300;
+    src: url('../assets/fonts/museosans-300.ttf');
+}
