@@ -43,16 +43,6 @@ header .header-banner {
   overflow: hidden;
 }
 
-/*header .header-banner .header-banner__col1 img {*/
-/*    width: 13.75em;*/
-/*    left: -0.6em;*/
-/*    top: 1.85em;*/
-/*}*/
-/*header .header-banner .header-banner__col3 img {*/
-/*    width: 13.75em;*/
-/*    left: -0.6em;*/
-/*    top: 1.85em;*/
-/*}*/
 
 header .header-banner h1,
 header .header-banner p {
@@ -91,7 +81,7 @@ header .header-banner p {
 header .header-banner:before {
   content: "";
   position: absolute;
-  background: url("../assets/images/header_1.png") 50% / contain no-repeat;
+  background: url("/testLP_support/assets/images/header_1.png") 50% / contain no-repeat;
   width: 13.75em;
   left: 0;
   top: -0.5em;
@@ -102,7 +92,7 @@ header .header-banner:before {
 header .header-banner:after {
   content: "";
   position: absolute;
-  background: url("../assets/images/header_2.png") 50% / contain no-repeat;
+  background: url("/testLP_support/assets/images/header_2.png") 50% / contain no-repeat;
   width: 13.75em;
   right: 0;
   bottom: -2.15em;
@@ -199,12 +189,6 @@ main .social_section .social .social__col2 ul {
 
 }
 
-
-/*@media all and (max-width: 961px) {*/
-/*  main .social_section .social .social__col2 ul  {*/
-/*    flex-direction: column;*/
-/*  }*/
-/*}*/
 
 
 main .social_section .social .social__col2 ul li {
